@@ -1,7 +1,0 @@
-Create a database connection and management class
-
-Introduces a `DataBase` class to handle PostgreSQL connections, environment variable-based configuration for DB URL, user, and password, and includes methods for creating the `consumo_agua` table and saving/retrieving water consumption data.
-
-Replit-Commit-Author: Agent
-Replit-Commit-Session-Id: 8c569981-5118-4615-95d4-2767feac48bb
-Replit-Commit-Checkpoint-Type: full_checkpoint
